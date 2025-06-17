@@ -28,7 +28,7 @@
         "editor.defaultFormatter": null,
         "r.bracketedPaste": true,
         "[r]": {
-          "editor.defaultFormatter": "Posit.air-vscode"
+          
         }
       },
       "extensions": [
